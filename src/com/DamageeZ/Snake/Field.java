@@ -65,6 +65,7 @@ public class Field extends Frame {
         s.paint(g);
 
         s.eat(e);
+        
     }
 
     Image offScreenImage = null;
